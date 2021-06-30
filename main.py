@@ -6,8 +6,10 @@ import numpy as np
 import sys
 import os
 import matplotlib.pyplot as plt
+import matplotlib.colors as colors
 import matplotlib.font_manager as fm
 import textwrap
+from matplotlib.colors import LogNorm
 
 filename = sys.argv[1]
 tmp_basename = os.path.basename(filename)
@@ -64,7 +66,10 @@ for index, value in Hauptverursacher_series.items():
 
 fig, ax = plt.subplots(constrained_layout=True)
 # cmap: Wistia, jet, brw, turbo
-im = ax.imshow(Verkehrsunfaelle_numpy_matrix, cmap='YlOrRd')
+
+im = ax.imshow(Verkehrsunfaelle_numpy_matrix, cmap='YlOrRd', aspect='equal', \
+               norm=colors.PowerNorm(gamma=0.5))
+
 fig.suptitle("Anzahl der Verkehrs-Unfälle in Deutschland mit mehreren Beteiligten", fontsize=12)
 ax.set_title(stat_type + ",\n laut DESTATIS Fachserie 8 Reihe 7 Seite 99/100", fontsize=9)
 ax.set_xticks(np.arange(len(Hauptverursacher)))
