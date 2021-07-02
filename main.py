@@ -7,8 +7,10 @@ import sys
 import os
 import matplotlib.pyplot as plt
 import matplotlib.colors as colors
+from matplotlib import cm
 import matplotlib.font_manager as fm
 import textwrap
+import copy
 from matplotlib.colors import LogNorm
 
 filename = sys.argv[1]
@@ -67,8 +69,12 @@ for index, value in Hauptverursacher_series.items():
 fig, ax = plt.subplots(constrained_layout=True)
 # cmap: Wistia, jet, brw, turbo
 
-im = ax.imshow(Verkehrsunfaelle_numpy_matrix, cmap='YlOrRd', aspect='equal', \
-               norm=colors.PowerNorm(gamma=0.5))
+YlOrRdCmap = copy.deepcopy(cm.get_cmap('YlOrRd'))
+YlOrRdCmap.set_bad((1,1,1))
+
+im = ax.imshow(Verkehrsunfaelle_numpy_matrix, cmap=YlOrRdCmap, aspect='equal', \
+               norm=colors.LogNorm(vmin=Verkehrsunfaelle_numpy_matrix.min()+1, vmax=Verkehrsunfaelle_numpy_matrix.max()))
+#               norm=colors.PowerNorm(gamma=0.5))
 
 fig.suptitle("Anzahl der Verkehrs-Unfälle in Deutschland mit mehreren Beteiligten", fontsize=12)
 ax.set_title(stat_type + ",\n laut DESTATIS Fachserie 8 Reihe 7 Seite 99/100", fontsize=9)
