@@ -1,0 +1,33 @@
+Unfall;;;;;;;Jahr -> ;2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;2011;2012;2013;2014;2015;2016;2017;2018;2019;2020
+Spalte;Quelle;Seite;Datentyp;Verkehrsmittel1;Verkehrsmittel2;Einheiten;Vorsätze ∨;;;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--;--
+12;BMVI ViZ 2020;224/225;Verkehrsleistung;Fußwege;FUSSGAENGER;Personen-km ≈ km;Mrd.;--;--;38,8;--;--;38,4;--;--;--;34,6;--;--;34,8;--;--;35,1;35,7;35,9;--;--
+12;MiD 2017;26;Verkehrsleistung;Zu Fuß;FUSSGAENGER;Personen-km ≈ km/d x 365d/1000;Mrd.;--;32,12;--;--;--;--;--;35,77;--;--;--;--;--;--;--;--;33,95;--;--;--
+10;BMVI ViZ 2020;224/225;Verkehrsleistung;Fahrradverkehr;FAHRRAD & PEDELEC;Personen-km ≈ km;Mrd.;--;--;30,4;--;--;30,3;--;--;--;32,4;--;--;35,4;--;--;36,1;38,8;39,5;--;--
+10;MiD 2017;26;Verkehrsleistung;Fahrrad;FAHRRAD & PEDELEC;Personen-km ≈ km/d x 365d/1000;Mrd.;--;29,93;--;--;--;--;--;35,04;--;--;--;--;--;--;--;--;40,88;--;--;--
+1;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Mopeds ≈ KRAFTRÄDER mit Vers.-Kennz.;≈ KRAFTRÄDER mit Vers.-Kennz.;km;Mrd.;4;3,8;3,9;4,2;4,3;4,6;4,6;4,7;4,8;4,7;4,8;4,8;4,7;4,7;4,6;4,6;4;3,9;--;--
+1;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;Mofas, Mopeds; = KRAFTRÄDER mit Vers.-Kennz.;km;Mrd.;--;--;--;--;--;--;--;--;--;4,7;--;--;--;--;4,6;--;--;3,9;3,9;--
+2;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Krafträder ≈ KRAFTRÄDER mit amtl. Kennz.;≈ KRAFTRÄDER mit amtl. Kennz.;km;Mrd.;13,8;12,2;12,5;12,7;13;13,2;10,8;11,1;11,4;11,6;11,9;12,1;12,3;12,6;12,9;13,1;9,8;9,8;--;--
+2;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;Krafträder; = KRAFTRÄDER mit amtl. Kennz.;km;Mrd.;--;--;--;--;--;--;--;--;--;11,6;--;--;--;--;12,9;--;--;9,8;9,9;--
+2;KBA ViK 2014–2020;VK 1.1;Jahresfahrleistung;Krafträder;Krafträder;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;9,5;9,61;9,66;9,74;9,74;9,89;9,93
+3;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Personenkraftwagen;PKW;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;611,94;619,1;625,92;630,84;630,84;632,25;626,42
+3;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Personenkraftwagen und Kombis ;PKW;km;Mrd.;575,5;583,6;577,8;590,4;578,2;583,9;587,5;584,6;595,5;599;608,8;610,1;615,1;627,2;635,8;649,6;642,8;642,2;--;--
+3;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;Pkw;PKW;km;Mrd.;--;--;--;--;--;--;--;--;--;599;--;--;--;--;635,8;--;--;642,2;644,8;--
+4;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Kraftomnibusse;BUS;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;4,24;4,38;4,52;4,48;4,49;4,54;4,16
+4;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Kraftomnibusse;BUS;km;Mrd.;3,7;3,6;3,6;3,6;3,5;3,5;3,4;3,3;3,3;3,3;3,3;3,3;3,3;3,3;3,4;3,5;4,6;4,6;--;--
+4;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;Busse;BUS;km;Mrd.;--;--;--;--;--;--;--;--;--;3,3;--;--;--;--;3,4;--;--;4,6;4,6;--
+5;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Lastkraftwagen, zGM ≤ 3,5t;LKW ≤ 3,5t;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;40,98;43,19;45,34;47,48;49,55;51,32;53,03
+--;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Lastkraftwagen, zGM > 3,5t, ≤ 7,5t;LKW > 3,5t, ≤ 7,5t;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;4,8;4,6;4,58;4,37;4,2;4,02;3,8
+--;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Lastkraftwagen, zGM > 7,5t;LKW > 7,5t;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;11,71;11,93;12,4;12,42;12,18;11,95;11,31
+6;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;berechnet: LKW mit zGM > 3,5t, ≤ 7,5t + LKW mit zGM > 7,5t = LKW mit zGM > 3,5t;LKW > 3,5t;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;16,51;16,53;16,98;16,79;16,39;15,97;15,11
+5+6;KBA ViK 2014–2020;VK 1.1;Jahresfahrleistung;berechnet: LKW mit zGM ≤ 3,5t + LKW mit zGM > 3,5t, ≤ 7,5t + LKW mit zGM > 7,5t = LKW;LKW;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;57,5;59,72;62,32;64,28;65,94;67,28;68,14
+5+6;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Lastkraftwagen;LKW;km;Mrd.;60,3;58,2;57,9;57,9;57;57,6;59,8;60,3;59,5;60,7;62,5;63,2;64,3;66,3;68,6;71;64;65,7;--;--
+5+6;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;LKW;LKW;km;Mrd.;--;--;--;--;--;--;--;--;--;60,7;--;--;--;--;68,6;--;--;65,7;67;--
+7;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Sattelzugmaschinen;SATTELZUG-LKW;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;18,57;18,85;19,2;19,61;19,82;19,78;19,04
+7;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Sattelzugmaschinen;SATTELZUG-LKW;km;Mrd.;13,5;13,7;14;14;15,5;16,6;17,8;18;16,6;16,9;17,5;16,8;16,7;16,9;17,2;17,3;20,1;20,5;--;--
+7;BASt VU-Daten 2018;Tab. 4;Fahrleistungen;Sattelzugmaschinen;SATTELZUG-LKW;km;Mrd.;--;--;--;--;--;--;--;--;--;16,9;--;--;--;--;17,2;--;--;20,5;20,4;--
+8;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Sonstige Zugmaschinen;übrige GÜTER-KFZ;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;0,43;0,44;0,46;0,47;0,5;0,49;0,51
+9;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Land-/forstwirtschaftliche Zugmaschinen;LANDWIRT. KFZ;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;0,79;0,75;0,71;0,67;0,65;0,64;0,73
+11;BMVI ViZ 2020;80/81;Fahrzeugkilometer;Straßenbahnen und Stadtschnellbahnen;STRASSENBAHN;km;Mrd.;--;--;--;0,294;0,297;0,297;0,293;0,296;0,294;0,295;0,3;0,299;0,298;0,303;0,306;0,307;0,307;0,308;--;--
+11;DESTATIS Bus & Bahn;10;Fahrzeugkilometer;Straßenbahnen;STRASSENBAHN;km;Mrd.;--;--;--;0,295;0,297;0,301;0,301;0,296;0,296;0,296;0,301;0,3;0,299;0,304;0,306;0,308;0,308;0,309;--;--
+13;BMVI ViZ 2019;152/153;Gesamtfahrleistung;Sonstige Kraftfahrzeuge;übrige KFZ ;km;Mrd.;11,8;12,2;12,4;12,4;12,8;7,8;8;8,1;8,4;8,5;8,8;9;9,3;9,5;9,8;10;4,5;4,5;--;--
+13;KBA ViK 2014–2020 ;VK 1.1;Jahresfahrleistung;Sonstige Kraftfahrzeuge;--;km;Mrd.;--;--;--;--;--;--;--;--;--;--;--;--;--;4,84;4,62;4,41;4,18;3,99;3,94;4,08
