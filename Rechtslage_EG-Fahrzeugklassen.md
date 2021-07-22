@@ -1,6 +1,7 @@
 Fahrzeug-Zulassungsverordnung - FZV 
 (https://www.gesetze-im-internet.de/fzv_2011/):
 ================================================================================
+```
 §2  Begriffsbestimmungen: 
     Im Sinne dieser Verordnung ist oder sind   
     01. Kraftfahrzeuge:   
@@ -126,7 +127,8 @@ Fahrzeug-Zulassungsverordnung - FZV
         ist, das Kraftfahrt-Bundesamt teilt mit Genehmigung des   
         Bundesministeriums für Verkehr und digitale Infrastruktur den   
         Versicherern die Erkennungsnummern zu.  
-
+```
+```
 KKR, KKrad: §2 Nr. 11 + §3 (2) Nr. 1d) + §4 (3) + §26 FZV:   
             Kleinkrafträder   
             => brauchen nur ein Versicherungs-Kennzeichen nach §26 FZV  
@@ -148,11 +150,14 @@ LKR, LKrad: §2 Nr. 10 + §3 (2) Nr. 1 c) + §4 (2) + §8 FZV:
             4rädrige Kraftfahrzeuge  (> 45 km/h)   
             => brauchen ein amtliches Kennzeichen nach §8 FZV  
             => Schwere Straßenquads, schwere Vierrad-Mobile   
+```
+```
 Mofa:   
 Leichtmofa:   
 Pedelec:   
+```
 
-
+```
 Spalte "Kraftrad mit Versicherungskennzeichen",   
     Einschl. S-Pedelecs und drei- und leichten vierrädrigen Kfz.  
     L1e-A:               Leicht-Mofa, Mofa mit max. 25 km/h  
@@ -201,8 +206,9 @@ Spalte "Landwirt. Zugmaschine":
 Spalte "Fahrrad": inklusive Pedelecs 
 Spalte "anderer Verkehrsteilnehmer": Wohnmobile, Eisenbahnen, etc.   
     =   
+```
 
-
+```
 "Auch beim Gewicht kann Mercedes keine Wunder vollbringen. Der elektrisch   
 angetriebene Citaro wiegt leer aber fahrfertig etwa 13,7 Tonnen, somit knapp   
 zwei Tonnen mehr als sein Dieselkollege. Voll ausgelastet darf er 19,5 Tonnen   
@@ -214,6 +220,6 @@ die allesamt keine Wünsche offenlassen. Die 12 m-Variante benötigt keine
 Mittelachse und hat ein Leergewicht von 10.882 kg."   
 ( https://www.man.eu/ntg_media/media/de/content_medien/doc/bw_master/  
 bus_1/man-bus-lions-city.pdf )   
-
+```
 
    
