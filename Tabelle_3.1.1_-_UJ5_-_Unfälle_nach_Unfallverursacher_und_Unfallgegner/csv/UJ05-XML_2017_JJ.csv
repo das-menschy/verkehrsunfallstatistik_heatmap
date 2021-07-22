@@ -1,10 +1,4 @@
-Deutschland ;;;;;;;;;;;;;;
-3 Beteiligte an Straßenverkehrsunfällen 2017;;;;;;;;;;;;;;
-3.1 Alleinunfälle und Unfälle mit zwei Beteiligten nach Ortslage;;;;;;;;;;;;;;
-3.1.1 Nach Unfallverursacher und Unfallgegner ;;;;;;;;;;;;;;
-"Spalten: Der erste Beteiligte (Hauptverursacher) war ein(e) ...
-Zeilen: Der zweite Beteiligte (Nebenverursacher) war ein(e) ...";;;;;;;;;;;;;;
-Unfälle mit Getöteten - Innerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Unfälle mit Getöteten - Innerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;4;39;84;1;4;3;0;1;2;71;0;0;11;220
 Unfälle zwischen zwei Beteiligten insg.;14;25;267;10;32;60;27;16;5;78;5;94;10;643
 Kraftrad mit Versicherungskennzeichen 1;1;0;9;0;0;1;0;0;0;1;0;0;1;13
@@ -36,7 +30,7 @@ Fahrrad 4;0;1;25;0;2;2;2;1;3;1;0;0;0;37
 Straßenbahn;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Fußgänger 5;0;0;45;0;1;1;3;1;3;0;0;0;3;57
 anderer Verkehrsteilnehmer;0;2;8;0;0;1;1;0;1;6;0;1;0;20
-Unfälle mit Getöteten – Innerhalb und außerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Unfälle mit Getöteten – Innerhalb und außerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;10;190;523;2;26;6;8;2;12;99;0;0;16;894
 Unfälle zwischen zwei Beteiligten insg.;26;147;886;11;95;88;62;20;33;131;5;148;18;1670
 Kraftrad mit Versicherungskennzeichen 1;1;1;14;0;0;1;1;0;0;1;0;0;1;20
@@ -52,7 +46,7 @@ Fahrrad 4;1;1;55;2;6;35;18;6;3;9;2;5;0;143
 Straßenbahn;0;0;1;0;1;0;0;0;0;3;0;16;0;21
 Fußgänger 5;0;2;180;8;21;24;13;10;6;2;2;0;5;273
 anderer Verkehrsteilnehmer;1;3;18;0;0;2;2;0;1;13;0;10;0;50
-Unfälle mit Personenschaden - Innerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Unfälle mit Personenschaden - Innerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;2755;3284;7316;651;206;77;41;31;106;13087;80;0;244;27878
 Unfälle zwischen zwei Beteiligten insg.;2832;3464;116002;1478;5297;2198;1115;309;332;19092;148;7873;2647;162787
 Kraftrad mit Versicherungskennzeichen 1;52;35;4650;39;246;84;37;10;12;166;0;122;164;5617
@@ -68,7 +62,7 @@ Fahrrad 4;215;170;32699;284;1467;524;227;64;53;4661;6;1489;1071;42930
 Straßenbahn;3;9;653;7;29;16;6;3;0;168;5;326;20;1245
 Fußgänger 5;163;139;15717;433;782;231;79;42;40;2185;62;0;514;20387
 anderer Verkehrsteilnehmer;32;27;663;113;31;27;11;6;15;170;13;71;34;1213
-Unfälle mit Personenschaden – Außerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Unfälle mit Personenschaden – Außerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;795;5565;20688;78;745;261;387;71;139;2485;0;0;125;31339
 Unfälle zwischen zwei Beteiligten insg.;424;2444;39057;196;2348;1324;1567;151;512;1839;0;403;945;51210
 Kraftrad mit Versicherungskennzeichen 1;19;20;654;11;32;29;17;3;13;22;0;10;45;875
@@ -84,7 +78,7 @@ Fahrrad 4;47;60;2055;7;102;38;27;5;53;711;0;76;169;3350
 Straßenbahn;0;0;6;0;1;1;0;0;0;4;0;2;0;14
 Fußgänger 5;15;17;595;8;51;9;13;5;12;131;0;0;31;887
 anderer Verkehrsteilnehmer;8;26;286;6;20;10;11;5;10;27;0;2;9;420
-Unfälle mit Personenschaden – Innerhalb und außerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Unfälle mit Personenschaden – Innerhalb und außerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;3550;8849;28004;729;951;338;428;102;245;15572;80;0;369;59217
 Unfälle zwischen zwei Beteiligten insg.;3256;5908;155059;1674;7645;3522;2682;460;844;20931;148;8276;3592;213997
 Kraftrad mit Versicherungskennzeichen 1;71;55;5304;50;278;113;54;13;25;188;0;132;209;6492
@@ -100,7 +94,7 @@ Fahrrad 4;262;230;34754;291;1569;562;254;69;106;5372;6;1565;1240;46280
 Straßenbahn;3;9;659;7;30;17;6;3;0;172;5;328;20;1259
 Fußgänger 5;178;156;16312;441;833;240;92;47;52;2316;62;0;545;21274
 anderer Verkehrsteilnehmer;40;53;949;119;51;37;22;11;25;197;13;73;43;1633
-Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;35;32;6661;11;197;57;54;15;13;0;0;0;13;7088
 Unfälle zwischen zwei Beteiligten insg.;133;153;28202;139;1146;543;323;92;110;74;16;45;1669;32645
 Kraftrad mit Versicherungskennzeichen 1;0;1;155;1;17;4;0;1;1;1;0;0;16;197
@@ -132,7 +126,7 @@ Fahrrad 4;1;0;0;0;0;0;0;0;0;0;0;0;0;1
 Straßenbahn;0;0;4;0;1;0;0;0;0;0;0;0;0;5
 Fußgänger 5;0;0;1;0;0;0;0;0;0;0;0;0;0;1
 anderer Verkehrsteilnehmer;0;3;118;1;7;6;6;0;1;0;0;0;3;145
-Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb und außerhalb von Ortschaften ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb und außerhalb von Ortschaften;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;46;137;18738;18;686;202;335;30;27;0;0;0;38;20257
 Unfälle zwischen zwei Beteiligten insg.;157;283;40379;187;1843;1102;1038;148;229;83;16;50;2520;48035
 Kraftrad mit Versicherungskennzeichen 1;0;1;169;1;17;6;2;1;1;1;0;0;16;215
@@ -148,7 +142,7 @@ Fahrrad 4;1;0;28;0;1;0;0;1;0;0;0;0;0;31
 Straßenbahn;0;0;314;0;15;3;1;1;0;0;0;0;1;335
 Fußgänger 5;0;0;15;0;0;0;0;0;0;0;0;0;0;15
 anderer Verkehrsteilnehmer;1;4;332;2;15;11;7;0;1;0;0;0;12;385
-Auf Autobahnen - Unfälle mit Getöteten ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Auf Autobahnen - Unfälle mit Getöteten;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;0;19;39;0;2;1;4;0;0;0;0;0;1;66
 Unfälle zwischen zwei Beteiligten insg.;0;6;81;1;40;12;24;1;0;0;0;12;1;178
 Kraftrad mit Versicherungskennzeichen 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -164,7 +158,7 @@ Fahrrad 4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Straßenbahn;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Fußgänger 5;0;0;1;0;1;0;2;0;0;0;0;0;0;4
 anderer Verkehrsteilnehmer;0;0;2;0;0;0;1;0;0;0;0;0;0;3
-Auf Autobahnen – Unfälle mit Personenschaden ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Auf Autobahnen – Unfälle mit Personenschaden;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;0;400;3725;13;193;106;198;12;1;1;0;0;20;4669
 Unfälle zwischen zwei Beteiligten insg.;1;211;8233;34;823;459;927;30;2;3;0;26;160;10909
 Kraftrad mit Versicherungskennzeichen 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -180,7 +174,7 @@ Fahrrad 4;0;0;5;0;0;0;0;0;0;1;0;0;0;6
 Straßenbahn;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Fußgänger 5;0;2;34;1;10;2;5;1;0;0;0;0;0;55
 anderer Verkehrsteilnehmer;0;1;58;0;11;5;8;2;0;0;0;0;1;86
-Auf Autobahnen – Schwerwiegende Unfälle mit Sachschaden (i.e.S.) ;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Auf Autobahnen – Schwerwiegende Unfälle mit Sachschaden (i.e.S.);Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Fahrrad 4;Straßenbahn;Fußgänger 5;anderer Verkehrsteilnehmer;Unfälle insgesamt
 Alleinunfälle;0;21;5078;2;219;74;194;3;1;0;0;0;10;5602
 Unfälle zwischen zwei Beteiligten insg.;0;14;3109;15;266;258;463;13;2;0;0;0;446;4586
 Kraftrad mit Versicherungskennzeichen 1;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -196,13 +190,3 @@ Fahrrad 4;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Straßenbahn;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 Fußgänger 5;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 anderer Verkehrsteilnehmer;0;1;36;1;2;4;4;0;0;0;0;0;3;51
-1 Einschl. S-Pedelecs und drei- und leichten vierrädrigen Kfz.;;;;;;;;;;;;;;
-2 Einschl. drei- und schweren vierrädrigen Kfz.;;;;;;;;;;;;;;
-3 Ohne Lastkraftwagen mit Tankauflage.;;;;;;;;;;;;;;
-4 Einschl. Pedelecs.;;;;;;;;;;;;;;
-5 Einschl.    Fußgänger .......rt- und Spielgeräten.;;;;;;;;;;;;;;
-6 Wohnmobile, Eisenbahnen etc..;;;;;;;;;;;;;;
-Vorstehende Fußnoten gelten auch für die Vorspalte.;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
- © Statistisches Bundesamt (Destatis), 2017;;;;;;;;;;;;;;
- Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.;;;;;;;;;;;;;;

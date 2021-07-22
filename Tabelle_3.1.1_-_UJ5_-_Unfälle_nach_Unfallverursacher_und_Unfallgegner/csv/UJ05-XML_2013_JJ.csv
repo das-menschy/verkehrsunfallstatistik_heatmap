@@ -1,10 +1,4 @@
-Deutschland;;;;;;;;;;;;;;
-3 Beteiligte an Straßenverkehrsunfällen 2013;;;;;;;;;;;;;;
-3.1 Alleinunfälle und Unfälle mit zwei Beteiligten nach Ortslage;;;;;;;;;;;;;;
-3.1.1 Nach Unfallverursacher und Unfallgegner;;;;;;;;;;;;;;
-"Spalten: Der erste Beteiligte (Hauptverursacher) war ein(e) ...
-Zeilen: Der zweite Beteiligte (Nebenverursacher) war ein(e) ...";;;;;;;;;;;;;;
-Unfälle mit Getöteten - Innerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Unfälle mit Getöteten - Innerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;8;37;86;3;5;0;4;0;1;48;8;0;0;200
 Unfälle zwischen zwei Beteiligten insg.;8;23;300;13;64;33;3;3;9;65;14;130;2;667
 Mofa, Moped;0;0;6;0;0;0;0;0;0;0;1;1;0;8
@@ -36,7 +30,7 @@ Fahrrad;0;3;24;0;4;4;1;0;0;2;0;0;0;38
 anderes Fahrzeug;1;1;15;1;0;1;0;0;0;0;0;5;0;24
 Fußgänger;0;2;57;0;7;1;0;0;2;3;2;0;0;74
 sonstige Person;0;1;1;0;0;0;0;0;0;0;0;0;0;2
-Unfälle mit Getöteten – Innerhalb und außerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Unfälle mit Getöteten – Innerhalb und außerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;21;180;594;4;26;7;8;1;1;88;11;0;0;941
 Unfälle zwischen zwei Beteiligten insg.;29;142;1004;17;136;56;16;3;13;127;24;183;4;1754
 Mofa, Moped;1;0;13;0;2;0;0;0;1;1;1;1;0;20
@@ -52,7 +46,7 @@ Fahrrad;1;3;61;8;26;24;1;1;1;7;2;4;1;140
 anderes Fahrzeug;2;1;25;1;0;4;1;0;2;8;0;36;0;80
 Fußgänger;0;5;212;5;46;8;0;2;7;5;8;0;0;298
 sonstige Person;0;1;1;0;0;0;0;0;0;0;1;0;0;3
-Unfälle mit Personenschaden - Innerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Unfälle mit Personenschaden - Innerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;2666;2913;7369;545;308;50;63;19;23;10326;318;0;0;24600
 Unfälle zwischen zwei Beteiligten insg.;3352;3237;112745;1299;8118;997;311;62;214;17417;2292;7735;467;158246
 Mofa, Moped;97;47;5276;43;362;30;17;1;5;172;139;128;32;6349
@@ -68,7 +62,7 @@ Fahrrad;228;182;29945;240;2100;196;42;11;50;4144;623;1384;305;39450
 anderes Fahrzeug;31;31;1027;14;104;12;4;0;3;235;57;397;12;1927
 Fußgänger;145;123;15992;413;1139;69;36;13;35;2029;623;0;2;20619
 sonstige Person;8;9;181;59;23;0;8;0;6;44;22;0;0;360
-Unfälle mit Personenschaden – Außerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Unfälle mit Personenschaden – Außerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;772;4813;22105;76;1157;451;112;35;57;2079;149;0;0;31806
 Unfälle zwischen zwei Beteiligten insg.;503;2191;36620;194;3665;1380;512;57;96;1700;786;446;151;48301
 Mofa, Moped;19;23;747;5;64;15;24;1;3;16;47;7;8;979
@@ -84,7 +78,7 @@ Fahrrad;50;60;1929;14;170;30;40;2;9;610;73;87;70;3144
 anderes Fahrzeug;3;27;232;2;21;14;5;1;1;11;11;10;2;340
 Fußgänger;21;20;650;9;84;15;13;1;3;130;49;0;0;995
 sonstige Person;4;7;47;2;9;0;8;0;0;14;4;0;0;95
-Unfälle mit Personenschaden – Innerhalb und außerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Unfälle mit Personenschaden – Innerhalb und außerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;3438;7726;29474;621;1465;501;175;54;80;12405;467;0;0;56406
 Unfälle zwischen zwei Beteiligten insg.;3855;5428;149365;1493;11783;2377;823;119;310;19117;3078;8181;618;206547
 Mofa, Moped;116;70;6023;48;426;45;41;2;8;188;186;135;40;7328
@@ -100,7 +94,7 @@ Fahrrad;278;242;31874;254;2270;226;82;13;59;4754;696;1471;375;42594
 anderes Fahrzeug;34;58;1259;16;125;26;9;1;4;246;68;407;14;2267
 Fußgänger;166;143;16642;422;1223;84;49;14;38;2159;672;0;2;21614
 sonstige Person;12;16;228;61;32;0;16;0;6;58;26;0;0;455
-Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;27;40;6913;9;277;47;11;1;11;0;11;0;0;7347
 Unfälle zwischen zwei Beteiligten insg.;164;155;31673;151;2083;331;99;17;66;70;1498;55;41;36403
 Mofa, Moped;2;0;196;1;17;1;0;0;0;1;22;1;0;241
@@ -132,7 +126,7 @@ Fahrrad;0;0;1;0;0;0;0;0;0;0;0;0;0;1
 anderes Fahrzeug;0;0;99;0;13;7;3;1;1;0;1;0;0;125
 Fußgänger;0;0;0;0;1;0;0;0;0;0;0;0;0;1
 sonstige Person;0;0;16;0;0;0;0;0;0;0;0;0;0;16
-Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb und außerhalb von Ortschaften ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb und außerhalb von Ortschaften;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;35;107;19891;21;1098;395;18;9;26;0;35;0;0;21635
 Unfälle zwischen zwei Beteiligten insg.;190;268;44379;215;3559;990;273;42;108;79;2387;64;57;52611
 Mofa, Moped;2;2;217;1;17;2;2;0;0;1;23;1;0;268
@@ -148,7 +142,7 @@ Fahrrad;1;1;24;0;1;0;0;0;0;0;0;0;0;27
 anderes Fahrzeug;2;2;641;2;48;10;4;1;1;0;12;0;1;724
 Fußgänger;1;0;1;0;1;0;0;0;0;0;0;0;0;3
 sonstige Person;0;0;33;0;1;1;1;0;0;0;0;0;0;36
-Auf Autobahnen - Unfälle mit Getöteten ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Auf Autobahnen - Unfälle mit Getöteten;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;0;18;62;1;1;3;0;0;0;0;0;0;0;85
 Unfälle zwischen zwei Beteiligten insg.;0;11;95;1;27;9;0;0;0;1;3;7;0;154
 Mofa, Moped;0;0;0;0;1;0;0;0;0;0;0;0;0;1
@@ -164,7 +158,7 @@ Fahrrad;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 anderes Fahrzeug;0;0;1;1;0;0;0;0;0;0;0;0;0;2
 Fußgänger;0;0;3;0;1;1;0;0;0;0;1;0;0;6
 sonstige Person;0;0;0;0;0;0;0;0;0;0;0;0;0;0
-Auf Autobahnen – Unfälle mit Personenschaden ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Auf Autobahnen – Unfälle mit Personenschaden;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;2;367;3650;12;305;228;1;2;6;2;23;0;0;4598
 Unfälle zwischen zwei Beteiligten insg.;0;218;6926;20;1059;768;0;9;15;4;166;31;5;9221
 Mofa, Moped;0;0;2;0;1;0;0;0;0;0;0;0;0;3
@@ -180,7 +174,7 @@ Fahrrad;0;0;3;0;0;0;0;0;0;1;0;0;0;4
 anderes Fahrzeug;0;3;52;1;7;7;0;0;1;0;3;0;0;74
 Fußgänger;0;0;32;0;12;2;0;0;0;0;5;0;0;51
 sonstige Person;0;0;3;0;1;0;0;0;0;0;2;0;0;6
-Auf Autobahnen – Schwerwiegende Unfälle mit Sachschaden (i.e.S.) ;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
+Auf Autobahnen – Schwerwiegende Unfälle mit Sachschaden (i.e.S.);Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;Fahrrad;anderes Fahrzeug;Fußgänger;sonstige Person;Unfälle insgesamt
 Alleinunfälle;0;7;5328;4;445;252;0;4;5;0;12;0;0;6057
 Unfälle zwischen zwei Beteiligten insg.;0;12;2774;13;581;444;2;7;10;0;485;2;1;4331
 Mofa, Moped;0;0;0;0;0;0;0;0;0;0;0;0;0;0
@@ -196,6 +190,3 @@ Fahrrad;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 anderes Fahrzeug;0;0;24;0;5;2;0;0;1;0;1;0;0;33
 Fußgänger;0;0;0;0;0;0;0;0;0;0;0;0;0;0
 sonstige Person;0;0;1;0;0;0;0;0;0;0;0;0;0;1
-;;;;;;;;;;;;;;
-;;;;;;;;;;;;;;
-Statistisches Bundesamt, Straßenverkehrsunfälle 2013;;;;;;;;;;;;;;
