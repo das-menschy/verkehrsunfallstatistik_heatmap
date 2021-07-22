@@ -1,7 +1,6 @@
 Fahrzeug-Zulassungsverordnung - FZV 
 (https://www.gesetze-im-internet.de/fzv_2011/):
 ================================================================================
-``
 §2  Begriffsbestimmungen: 
     Im Sinne dieser Verordnung ist oder sind   
     01. Kraftfahrzeuge:   
@@ -127,9 +126,7 @@ Fahrzeug-Zulassungsverordnung - FZV
         ist, das Kraftfahrt-Bundesamt teilt mit Genehmigung des   
         Bundesministeriums für Verkehr und digitale Infrastruktur den   
         Versicherern die Erkennungsnummern zu.  
-``
 
-``
 KKR, KKrad: §2 Nr. 11 + §3 (2) Nr. 1d) + §4 (3) + §26 FZV:   
             Kleinkrafträder   
             => brauchen nur ein Versicherungs-Kennzeichen nach §26 FZV  
@@ -154,8 +151,8 @@ LKR, LKrad: §2 Nr. 10 + §3 (2) Nr. 1 c) + §4 (2) + §8 FZV:
 Mofa:   
 Leichtmofa:   
 Pedelec:   
-``
-``
+
+
 Spalte "Kraftrad mit Versicherungskennzeichen",   
     Einschl. S-Pedelecs und drei- und leichten vierrädrigen Kfz.  
     L1e-A:               Leicht-Mofa, Mofa mit max. 25 km/h  
@@ -204,7 +201,6 @@ Spalte "Landwirt. Zugmaschine":
 Spalte "Fahrrad": inklusive Pedelecs 
 Spalte "anderer Verkehrsteilnehmer": Wohnmobile, Eisenbahnen, etc.   
     =   
-``
 
 
 "Auch beim Gewicht kann Mercedes keine Wunder vollbringen. Der elektrisch   
