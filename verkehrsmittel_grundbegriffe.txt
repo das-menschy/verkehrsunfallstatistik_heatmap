@@ -1,0 +1,41 @@
+```
+01: Fußgänger, auch mit Hund/Kinderwagen, Sport-Gerät:     --                   --                                                                       --
+02: Fahrrad & Pedelec mit Muskel-Antrieb, ohne S-Pedelec:  --                   --                                                                       --
+03: VERS.-KENNZEICHEN, ≤ 45 km/h: alle Kleinkrafträder und Leicht-KFZ, die kein amtliches Kennzeichen, aber ein Versicherungs-Kennzeichen benötigen, also mit bbH ≤ 45 km/h
+    Leicht-Mofa:					   2rädr.KKR.≤20km/h:   2-rädrige Kleinkrafträder mit bbH ≤ 20 km/h: 		                 L1e-A
+    Mofa:                                                  2rädr.KKR.≤25km/h:   2-rädrige Kleinkrafträder mit bbH ≤ 25 km/h: 			         L1e-A
+    S-Pedelec, (Flak)Moped, Vespa, Motor-Roller, Mokick:   2/3rädr.KKR.≤45km/h: 2- oder 3-rädrige Kleinkrafträder mit bbH ≤ 45 km/h: 		         L1e-A,  L1e-B,  L2e-P,  L2e-U  
+    Leichtes Straßen-Quad/Leichtes Vierrad-Mobil: 	   4rädr.L-QUAD≤45km/h: 4-rädrige Leicht-Kraftwagen mit bbH ≤ 45 km/h:                           L6e-A,  L6e-BU, L6e-BP
+04: AMTL. KENNZEICHEN, > 45 km/h: alle Krafträder und Klein-KFZ, die ein amtliches Kennzeichen benötigen, also mit bbH > 45 km/h: 
+    Motorrad ohne Beiwagen: 	 			   2rädr.KR.o.BW.:      2-rädrige Krafträder mit bbH > 45 km/h ohne Beiwagen:                    L3e-A1, L3e-A2, L3e-A3
+    Enduro/Trial/Gelände-Motorrad: 	        	   2rädr.E/T/G-KR.:     2-rädrige Enduro/Trial/Gelände-Krafträder mit bbH > 45 km/h:             L3e-AxE,L3e-AxT
+    Motorrad-Gespann/Motorrad mit Beiwagen:     	   2rädr.KR.m.BW.:      2-rädrige Krafträder mit bbH > 45 km/h mit Beiwagen: 		         L4e-A1, L4e-A2, L4e-A3
+    Ellenator: 					  	   3rädr.KR.<1000kg:    3-rädrige Krafträder mit zGM < 1 t: 			                 L5e-A,  L5e-B
+    Schweres Straßen-Quad/Schweres Vierrad-Mobil: 	   4rädr.S-QUAD≤90km/h: 4-rädrige schweres KFZ mit bbH > 45 km/h, aber bbH ≤ 90 km/h:            L7e-B1, L7e-CU, L7e-CP
+    Schweres Straßen-Quad/Schweres Vierrad-Mobil: 	   4rädr.S-QUAD≤15kW:   4-rädrige schweres KFZ mit P_M ≤ 15 kW:                                  L7e-A1, L7e-A2, L7e-B2, L7e-CU, L7e-CP
+05: Personenkraftwagen (PKW): 				 
+    Automobile:				                   4+rädr.PKW.<9Sitze:  4+rädrige Kraftfahrzeuge zur Personen-Bef. mit Sitzplätze < 9 :          M1
+    Geländewagen:				           4+rädr.PKW.<9Sitze:  4+rädrige, geländegängige KFZ zur Personen-Bef. mit Sitzplätze < 9:      M1G
+06: Bus: 
+    Omnibus, Bus, Klein-Bus,  Kraft-Omnibus (KOM):         4+rädr.PKW.≤5t:      4+rädriges Kraftfahrzeug zur Personen-Bef. mit Sitzplätze > 9, zGM ≤ 5t: M2
+    Omnibus, Bus, Gelenk-Bus, Kraft-Omnibus (KOM):         4+rädr.PKW.>5t:      4+rädriges Kraftfahrzeug zur Personen-Bef. mit Sitzplätze > 9, zGM > 5t: M3
+07: Lastkraftwagen mit Normalaufbau, mit zGM ≤ 3,5t:       4+rädr.LKW.≤3,5t:    4+rädriger Lastkraftwagen oder Van ohne Tankauflage mit zGM ≤ 3,5t:      N1-BA, N1-BB, N1-BE
+08: Lastkraftwagen mit Normalaufbau, mit zGM > 3,5t:       4+rädr.LKW.>3,5t:    4+rädriger Lastkraftwagen oder Van ohne Tankauflage mit zGM > 3,5t:      N2-BA, N2-BB, N3-BA, N3-BB
+09: Sattelzugmaschine:                                     4+rädr.SATTELZUG:    4+rädriges Kraftfahrzeug mit Sattelzug-Aufbau:                           N1-BC, N2-BC, N3-BC
+10: Lastkraftwagen mit Spezial-Aufbau, übrige Güter-Kraftfahrzeuge, andere Zugmaschinen ohne Sattelzug-Maschinen: 
+    Lastkraftwagen mit Tank/Silo/Viehwagen/Lang-Aufbau:    4+rädr.LKW.SPEZIAL:  4+rädriges Kraftfahrzeug zur Güter-Bef. mit Spezial-Aufbau, ohne Sattel: N1-BA, N1-BB, N1-BD, 
+    																			 N2-BA, N2-BB, N2-BD, 
+    																			 N3-BA, N3-BB, N3-BD
+11: Landwirtschaftliche Zugmaschine:                       LANDWIRT.ZUGMASCH.:  Zugmaschinen für land- oder forstwirtschaftliche Zwecke:                 T1, T2, T3, T4, T5, C1, C2, C3, C4, C5
+12: Straßenbahn:                                           STRASSENBAHN:        --                                                                       --
+13: anderer Verkehrsteilnehmer:                            
+    Wohnmobil, 
+    Eisenbahn, 
+    Krankenkraftwagen, 
+    Feuerwehrfahrzeug, 
+    Straßenreinigungsfahrzeug, 
+    Müllwagen, 
+    Abschlepp-Wagen, 
+    Kranwagen-Wagen, 
+    Bagger
+```
