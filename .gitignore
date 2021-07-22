@@ -1,3 +1,5 @@
 Rohdaten/
 .venv/
 .idea/
+*.svg 
+*.png
