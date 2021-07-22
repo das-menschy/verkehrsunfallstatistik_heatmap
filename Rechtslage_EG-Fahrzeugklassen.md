@@ -158,14 +158,14 @@ Pedelec:
 ```
 
 ```
-**Spalte "Kraftrad mit Versicherungskennzeichen",**   
-    **Einschl. S-Pedelecs und drei- und leichten vierrädrigen Kfz.**  
+Spalte "Kraftrad mit Versicherungskennzeichen",   
+    Einschl. S-Pedelecs und drei- und leichten vierrädrigen Kfz.  
     L1e-A:               Leicht-Mofa, Mofa mit max. 25 km/h  
     L1e-B:               Moped, Mokick, Roller, S-Pedelec mit max. 45 km/h  
     L2e-U,L2e-P:         3rädriges Kleinkraftrad mit max. 45 km/h               - 3rädr.KKR  
     L6e-A,L6e-BU,L6e-BP: 4rädriges Leicht-KFZ mit max. 6 kW/50 ccm              - 4rädr.LKFZ  
-**Spalte "Kraftrad mit amtlichem Kennzeichen"**    
-    **Einschl. drei- und schweren vierrädrigen Kfz.**   
+Spalte "Kraftrad mit amtlichem Kennzeichen"    
+    Einschl. drei- und schweren vierrädrigen Kfz.   
     L3e-A1:              Leicht-Kraftrad ohne Beiwagen mit max. 125 ccm / 11 kW - 2rädr.      LKR.o.BW.  
     L3e-A2:              Kraftrad ohne Beiwagen bis  35 kW                      - 2rädr.       KR.o.BW.  
     L3e-A3:              Kraftrad ohne Beiwagen über 35 kW                      - 2rädr.       KR.o.BW.  
@@ -184,27 +184,27 @@ Pedelec:
     L7e-B2:              Schweres 4rädr. KFZ mit max. 450/600 kg & 15 kW        - 4rädr.     SKFZ.z.Pers./Güter-Bef.  
     L7e-CU:              Schweres 4rädr. KFZ mit max. 600 kg/90 km/h            - 4rädr.     SKFZ.z.Güter-Bef.  
     L7e-CP:              Schweres 4rädr. KFZ mit max. 450 kg/90 km/h            - 4rädr.     SKFZ.z.Pers.-Bef.  
-**Spalte "Personenkraftwagen":**  
+Spalte "Personenkraftwagen":  
     M1,      M1G  
-**Spalte "Bus":**   
+Spalte "Bus":   
     M2,      M3  
-**Spalte "Lastkraftwagen": Ohne Lastkraftwagen mit Tankauflage,**   
-    **bis einschließl. 3,5t:**  
+Spalte "Lastkraftwagen": Ohne Lastkraftwagen mit Tankauflage,   
+    bis einschließl. 3,5t:  
     N1-BA,   
     N1-BB?  
-    **über 3,5t:**   
+    über 3,5t:   
     = N2-BA,   N2-BB?,  N3-BA,   N3-BB?  
-**Spalte "Sattelzugmaschine":**   
+Spalte "Sattelzugmaschine":   
     = N1-BC,   N2-BC,   N3-BC  
-**Spalte "übriges Güter-Kraftfahrzeug":**   
+Spalte "übriges Güter-Kraftfahrzeug":   
     = N1-BD, N2-BD, N3-BD ("Straßenzugmaschine")   
       N1-BE ("Pickup"),   
       N1-BB?, N2-BB?   
-**Spalte "Landwirt. Zugmaschine":**   
+Spalte "Landwirt. Zugmaschine":   
     = T1,      T2,      T3,      T4,      T5  
       C1,      C2,      C3,      C4,      C5  
-**Spalte "Fahrrad": inklusive Pedelecs** 
-**Spalte "anderer Verkehrsteilnehmer": Wohnmobile, Eisenbahnen, etc.**   
+Spalte "Fahrrad": inklusive Pedelecs 
+Spalte "anderer Verkehrsteilnehmer": Wohnmobile, Eisenbahnen, etc.   
     =   
 ```
 
