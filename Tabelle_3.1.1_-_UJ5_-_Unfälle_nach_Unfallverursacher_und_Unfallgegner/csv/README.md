@@ -31,5 +31,5 @@
     6) Wohnmobile, Eisenbahnen etc..
        Vorstehende Fußnoten gelten auch für die Vorspalte.
 
-* Copyright: © Statistisches Bundesamt (Destatis), 2021. Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet. 
+* **Copyright: © Statistisches Bundesamt (Destatis), 2021. Vervielfältigung und Verbreitung, auch auszugsweise, mit Quellenangabe gestattet.**
 
