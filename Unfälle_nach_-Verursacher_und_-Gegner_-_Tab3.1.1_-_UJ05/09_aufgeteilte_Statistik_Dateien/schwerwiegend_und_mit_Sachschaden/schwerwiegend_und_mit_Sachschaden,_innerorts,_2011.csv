@@ -1,0 +1,25 @@
+Personenkraftwagen;5780;11407;3654;4346;75465;534;6497;1507;434;96;170;1077;111;111078
+Kraftomnibus, Obus;380;260;51;60;1835;23;189;20;4;0;5;90;43;2960
+Liefer- und Lastkraftw.;260;632;265;331;4466;54;725;185;38;12;20;90;7;7085
+Sattelschlepper;32;69;28;62;1297;11;283;180;4;3;9;23;0;2001
+Landwirt. Zugmaschine;5;29;34;73;378;1;24;5;8;1;0;7;1;566
+andere Zugmaschine;3;9;3;11;85;0;8;1;0;2;0;3;1;126
+LKW mit Spezialaufbau;10;16;13;6;162;3;25;8;3;2;8;5;0;261
+anderes Fahrzeug;389;291;57;59;1436;15;149;28;9;0;4;69;13;2519
+sonstige Person;0;78;19;23;252;63;41;2;14;0;1;27;1;521
+Unfälle zwischen zwei Beteiligten insg.;8864;20797;4917;5926;154433;1517;13203;2375;850;173;349;3318;761;217483
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Innerhalb von Ortschaften;Fußgänger;Fahrrad;Mofa, Moped;Motorrad;Personenkraftwagen;Kraftomnibus, Obus;Liefer- und Lastkraftw.;Sattelschlepper;Landwirt. Zugmaschine;andere Zugmaschine;LKW mit Spezialaufbau;anderes Fahrzeug;sonstige Person;Unfälle insgesamt
+Fußgänger;0;0;0;0;9;0;1;0;0;0;0;0;0;10
+Fahrrad;0;0;0;1;25;0;0;0;0;0;0;0;0;26
+Mofa, Moped;0;1;2;3;201;6;25;2;0;1;0;18;0;259
+Motorrad;0;3;2;2;394;6;53;3;0;0;1;23;0;487
+Personenkraftwagen;66;82;210;171;28250;134;1874;272;88;20;52;1129;58;32406
+Kraftomnibus, Obus;0;0;2;2;329;0;21;3;1;0;0;3;0;361
+Liefer- und Lastkraftw.;1;5;10;10;1973;10;174;20;7;1;5;36;3;2255
+Sattelschlepper;0;0;1;1;251;0;26;7;1;1;1;6;0;295
+Landwirt. Zugmaschine;0;0;0;2;70;0;9;1;0;0;1;0;0;83
+andere Zugmaschine;0;0;0;0;22;0;3;0;0;0;0;1;0;26
+LKW mit Spezialaufbau;0;0;0;0;60;0;6;2;0;0;0;1;0;69
+anderes Fahrzeug;0;0;2;0;588;0;30;3;0;0;2;9;0;634
+sonstige Person;0;0;0;0;22;0;0;1;0;0;0;0;0;23
+Unfälle zwischen zwei Beteiligten insg.;67;91;229;192;32194;156;2222;314;97;23;62;1226;61;36934

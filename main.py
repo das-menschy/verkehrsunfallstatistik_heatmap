@@ -18,10 +18,10 @@ tmp_basename = os.path.basename(filename)
 stat_type = tmp_basename.replace("_"," ").replace(".csv","")
 RLPTH = os.path.realpath(filename)
 CWD = os.getcwd()
-print("RLPTH: " + RLPTH)
-print("CWD: " + CWD)
-print("tmp_basename: " + tmp_basename)
-print("stat_type: " + stat_type)
+# print("RLPTH: " + RLPTH)
+# print("CWD: " + CWD)
+# print("tmp_basename: " + tmp_basename)
+# print("stat_type: " + stat_type)
 
 verkehrsmittel_font = fm.FontProperties(fname=CWD+'/verkehrsmittel_font_made_with_icomoon.ttf')
 
@@ -34,14 +34,20 @@ Verkehrsunfaelle_pandas_matrix = pd.read_csv(RLPTH, sep=';', index_col=0)
 # Löschen der Summen-Spalte/Zeile, die die Sicht verzerrt
 # falls die Spalte/Zeile nicht existiert, soll aber auch kein Fehler ausgegeben werden
 try:
-    Verkehrsunfaelle_pandas_matrix = Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=0)
-    Verkehrsunfaelle_pandas_matrix = Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=1)
+   print("test")
+   Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=0, inplace=True)
+   Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=1, inplace=True)
+   Verkehrsunfaelle_pandas_matrix.drop('Unfälle zwischen zwei Beteiligten insg.', axis=0, inplace=True)
+   Verkehrsunfaelle_pandas_matrix.drop('Unfälle insgesamt', axis=1, inplace=True)
 except:
-    pass
+   pass
 
 print(Verkehrsunfaelle_pandas_matrix)
+print(type(Verkehrsunfaelle_pandas_matrix))
+
 
 Verkehrsunfaelle_numpy_matrix = Verkehrsunfaelle_pandas_matrix.to_numpy()
+
 
 Hauptverursacher_series = Verkehrsunfaelle_pandas_matrix.columns.to_series(index=np.arange(0, \
     len(Verkehrsunfaelle_pandas_matrix.columns.to_series())), name="Hauptverursacher_series")

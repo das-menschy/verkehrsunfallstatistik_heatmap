@@ -1,0 +1,25 @@
+Personenkraftwagen;26;61;147;124;18686;104;862;430;292;59;66;6;1243;22106
+Bus;0;0;2;2;239;2;8;3;1;0;2;0;5;264
+Lastkraftwagen 3 bis einschließlich 3,5t;0;1;4;7;645;2;53;16;6;2;3;0;35;774
+Lastkraftwagen 3 über 3,5t;0;0;1;3;371;3;16;13;5;0;2;0;6;420
+Sattelzugmaschine;0;0;0;0;197;2;13;6;14;0;2;0;3;237
+übriges Güterkraftfahrzeug;0;0;0;2;55;0;1;1;1;0;0;0;0;60
+Landwirt. Zugmaschine;0;0;0;0;68;0;7;4;0;0;2;0;2;83
+Straßenbahn;0;0;0;1;230;0;15;1;0;0;0;0;2;249
+anderer Verkehrsteilnehmer;0;1;2;0;203;3;5;6;4;2;0;0;10;236
+Unfälle zwischen zwei Beteiligten insg.;27;70;158;142;21147;118;1032;499;329;65;78;6;1356;25027
+Schwerwiegende Unfälle mit Sachschaden (i.e.S.) - Außerhalb von Ortschaften;Fußgänger 5;Fahrrad 4;Kraftrad mit Versicherungskennzeichen 1;Kraftrad mit amtlichem Kennzeichen 2;Personenkraftwagen;Bus;Lastkraftwagen 3 bis einschließlich 3,5t;Lastkraftwagen 3 über 3,5t;Sattelzugmaschine;übriges Güterkraftfahrzeug;Landwirt. Zugmaschine;Straßenbahn;anderer Verkehrsteilnehmer;Unfälle insgesamt
+Fußgänger 5;0;0;0;0;1;0;0;0;0;0;0;0;0;1
+Fahrrad 4;0;0;0;1;7;0;0;0;0;0;0;0;0;8
+Kraftrad mit Versicherungskennzeichen 1;0;0;0;0;23;0;2;0;0;0;0;0;1;26
+Kraftrad mit amtlichem Kennzeichen 2;0;1;0;6;92;0;9;6;2;2;2;0;8;128
+Personenkraftwagen;2;12;16;96;7396;28;403;334;441;38;106;0;564;9436
+Bus;0;0;0;0;50;0;4;1;0;0;0;0;1;56
+Lastkraftwagen 3 bis einschließlich 3,5t;1;0;0;2;382;0;35;22;30;3;5;0;23;503
+Lastkraftwagen 3 über 3,5t;0;0;0;2;401;4;42;18;38;2;2;0;15;524
+Sattelzugmaschine;0;0;1;3;614;0;56;26;78;1;4;0;26;809
+übriges Güterkraftfahrzeug;0;0;0;0;44;0;2;2;0;0;0;0;4;52
+Landwirt. Zugmaschine;0;0;0;1;119;0;8;1;4;1;2;0;1;137
+Straßenbahn;0;0;0;0;3;0;0;0;0;0;0;0;0;3
+anderer Verkehrsteilnehmer;0;1;0;2;85;0;7;2;4;0;3;0;6;110
+Unfälle zwischen zwei Beteiligten insg.;3;14;17;113;9217;32;568;412;597;47;124;0;649;11793
