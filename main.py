@@ -29,7 +29,13 @@ text_to_symbols_dictionary_DataFrame = pd.read_csv(
     CWD+'/Wörterbuch_Verkehrsmittel_Name_zu_Symbol.csv', names=["text", "symbols"], index_col="text")
 text_to_symbols_dictionary = text_to_symbols_dictionary_DataFrame.squeeze()
 
-Verkehrsunfaelle_pandas_matrix = pd.read_csv(RLPTH, sep=';', index_col=0)
+Verkehrsunfaelle_pandas_matrix = pd.read_csv(RLPTH, sep=';', index_col=0, encoding='utf-8')
+
+Verkehrsunfaelle_pandas_matrix.rename(columns={'Unfälle insgesamt':'INSG'}, inplace=True)
+Verkehrsunfaelle_pandas_matrix.rename(index={'Unfälle zwischen zwei Beteiligten insg.':'INSG'}, inplace=True)
+Verkehrsunfaelle_pandas_matrix.rename(columns={'Unfälle_insgesamt':'INSG'}, inplace=True)
+Verkehrsunfaelle_pandas_matrix.rename(index={'Unfälle_zwischen_zwei_Beteiligten_insg':'INSG'}, inplace=True)
+
 
 # Löschen der Summen-Spalte/Zeile, die die Sicht verzerrt
 # falls die Spalte/Zeile nicht existiert, soll aber auch kein Fehler ausgegeben werden
@@ -37,8 +43,6 @@ try:
    print("test")
    Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=0, inplace=True)
    Verkehrsunfaelle_pandas_matrix.drop("INSG", axis=1, inplace=True)
-   Verkehrsunfaelle_pandas_matrix.drop('Unfälle zwischen zwei Beteiligten insg.', axis=0, inplace=True)
-   Verkehrsunfaelle_pandas_matrix.drop('Unfälle insgesamt', axis=1, inplace=True)
 except:
    pass
 
