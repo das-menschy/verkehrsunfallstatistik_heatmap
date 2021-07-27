@@ -40,7 +40,7 @@ sed -n '46,60p'   "$FILE" > $FILEPART04
 sed -n '61,75p'   "$FILE" > $FILEPART05
 sed -n '76,90p'   "$FILE" > $FILEPART06
 sed -n '91,105p'  "$FILE" > $FILEPART07
-sed -n '106,120p'  "$FILE" > $FILEPART08
+sed -n '106,120p' "$FILE" > $FILEPART08
 sed -n '121,135p' "$FILE" > $FILEPART09
 sed -n '136,150p' "$FILE" > $FILEPART10
 sed -n '151,165p' "$FILE" > $FILEPART11
