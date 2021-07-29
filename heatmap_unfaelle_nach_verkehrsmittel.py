@@ -86,8 +86,11 @@ im = ax.imshow(Verkehrsunfaelle_numpy_matrix, cmap=YlOrRdCmap, aspect='equal', \
                norm=colors.LogNorm(vmin=Verkehrsunfaelle_numpy_matrix.min()+1, vmax=Verkehrsunfaelle_numpy_matrix.max()))
 #               norm=colors.PowerNorm(gamma=0.5))
 
-fig.suptitle("Anzahl der Verkehrs-Unfälle in Deutschland mit mehreren Beteiligten", fontsize=12)
-ax.set_title(stat_type + ",\n laut DESTATIS Fachserie 8 Reihe 7 Seite 99/100", fontsize=9)
+fig.suptitle("Anzahl der Verkehrs-Unfälle in Deutschland mit mehreren Beteiligten \n" + stat_type, fontsize=12)
+ax.set_title("laut Statistischem Bundesamt (Destatis), Fachserie 8 Reihe 7, \n" +
+             "Kapitel 3. \"Beteiligte an Straßenverkehrsunfällen\" > \n" +
+             "Kapitel 3.1 \"Alleinunfälle und Unfälle mit zwei Beteiligten nach Ortslage\" > \n" +
+             "Kapitel 3.1.1 \"Nach Unfallverursacher und Unfallgegner\" \n", fontsize=9)
 ax.set_xticks(np.arange(len(Hauptverursacher)))
 ax.set_yticks(np.arange(len(Nebenverursacher)))
 
